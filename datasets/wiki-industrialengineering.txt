@@ -1,0 +1,248 @@
+Industrial engineering
+From Wikipedia, the free encyclopedia
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (January 2017) (Learn how and when to remove this template message)
+Industrial engineering is a branch of engineering which deals with the optimization of complex processes, systems, or organizations. Industrial engineers work to eliminate waste of time, money, materials, person-hours, machine time, energy and other resources that do not generate value. According to the Institute of Industrial and Systems Engineers, they create engineering processes and systems that improve quality and productivity.[1]
+
+Industrial engineering is concerned with the development, improvement, and implementation of integrated systems of people, money, knowledge, information, equipment, energy, materials, analysis and synthesis, as well as the mathematical, physical and social sciences together with the principles and methods of engineering design to specify, predict, and evaluate the results to be obtained from such systems or processes.[2] while their industrial engineering is a longstanding engineering discipline subject to (and eligible for) professional engineering licensure in most jurisdictions, its underlying concepts overlap considerably with certain business-oriented disciplines such as operations management.
+
+Depending on the sub-specialties involved, industrial engineering may also be known as, or overlap with, operations research, systems engineering, manufacturing engineering, production engineering, management science, management engineering, ergonomics or human factors engineering, safety engineering, or others, depending on the viewpoint or motives of the user.
+
+Contents  [hide] 
+1	Overview
+1.1	The name: industrial engineering
+1.2	Fields and topics
+2	History
+2.1	Origins
+2.1.1	Industrial Revolution
+2.1.2	Specialization of labor
+2.1.3	Interchangeable parts
+2.2	Pioneers
+2.3	Modern practice
+2.4	Compared to other engineering disciplines
+3	Education
+3.1	Undergraduate curriculum
+3.2	Graduate curriculum
+3.3	Non-US institutes offering courses in Industrial Engineering
+4	Salaries and workforce statistics
+4.1	United States
+4.2	Norway
+5	See also
+6	Notes
+7	Further reading
+Overview[edit]
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) (Learn how and when to remove this template message)
+The name: industrial engineering[edit]
+While originally applied to manufacturing, the use of "industrial" in "industrial engineering" can be somewhat misleading, since it has grown to encompass any methodical or quantitative approach to optimizing how a process, system, or organization operates. People have changed the term "industrial" to broader terms such as Industrial and Manufacturing Engineering, Industrial and Systems Engineering, Industrial Engineering & Operations Research, Industrial Engineering & Management.
+
+Fields and topics[edit]
+The various fields and topics that industrial engineers are involved with include:
+
+Manufacturing Engineering
+Engineering management
+Process engineering: design, operation, control, and optimization of chemical, physical, and biological processes.
+Systems engineering: an interdisciplinary field of engineering that focuses on how to design and manage complex engineering systems over their life cycles.
+Software engineering: an interdisciplinary field of engineering that focusing on design, development, maintenance, testing, and evaluation of the software that make computers or other devices containing software work
+Safety engineering: an engineering discipline which assures that engineered systems provide acceptable levels of safety.
+Data science: the science of exploring, manipulating, analyzing, and visualizing data to derive useful insights and conclusions
+Machine learning: the automation of learning from data using models and algorithms
+Analytics and data mining: the discovery, interpretation, and extraction of patterns and insights from large quantities of data
+Cost engineering: practice devoted to the management of project cost, involving such activities as cost- and control- estimating, which is cost control and cost forecasting, investment appraisal, and risk analysis.
+Value engineering: a systematic method to improve the "value" of goods or products and services by using an examination of function.
+Predetermined motion time system: a technique to quantify time required for repetitive tasks.
+Quality engineering: a way of preventing mistakes or defects in manufactured products and avoiding problems when delivering solutions or services to customers.
+Project management: is the process and activity of planning, organizing, motivating, and controlling resources, procedures and protocols to achieve specific goals in scientific or daily problems.
+Supply chain management: the management of the flow of goods. It includes the movement and storage of raw materials, work-in-process inventory, and finished goods from point of origin to point of consumption.
+Ergonomics: the practice of designing products, systems or processes to take proper account of the interaction between them and the people that use them.
+Operations research, also known as management science: discipline that deals with the application of advanced analytical methods to help make better decisions
+Operations management: an area of management concerned with overseeing, designing, and controlling the process of production and redesigning business operations in the production of goods or services.
+Job design: the specification of contents, methods and relationship of jobs in order to satisfy technological and organizational requirements as well as the social and personal requirements of the job holder.
+Financial engineering: the application of technical methods, especially from mathematical finance and computational finance, in the practice of finance
+Industrial plant configuration: sizing of necessary infrastructure used in support and maintenance of a given facility.
+Facility management: an interdisciplinary field devoted to the coordination of space, infrastructure, people and organization
+Engineering design process: formulation of a plan to help an engineer build a product with a specified performance goal.
+Logistics: the management of the flow of goods between the point of origin and the point of consumption in order to meet some requirements, of customers or corporations.
+Accounting: the measurement, processing and communication of financial information about economic entities
+Capital projects: the management of activities in capital projects involves the flow of resources, or inputs, as they are transformed into outputs.[3][4] Many of the tools and principles of industrial engineering can be applied to the configuration of work activities within a project. The application of industrial engineering and operations management concepts and techniques to the execution of projects has been thus referred to as Project Production Management.[5]
+Traditionally, a major aspect of industrial engineering was planning the layouts of factories and designing assembly lines and other manufacturing paradigms. And now, in lean manufacturing systems, industrial engineers work to eliminate wastes of time, money, materials, energy, and other resources.
+
+Examples of where industrial engineering might be used include flow process charting, process mapping, designing an assembly workstation, strategizing for various operational logistics, consulting as an efficiency expert, developing a new financial algorithm or loan system for a bank, streamlining operation and emergency room location or usage in a hospital, planning complex distribution schemes for materials or products (referred to as supply-chain management), and shortening lines (or queues) at a bank, hospital, or a theme park.
+
+Modern industrial engineers typically use predetermined motion time system, computer simulation (especially discrete event simulation), along with extensive mathematical tools for modeling, such as mathematical optimization and queueing theory, and computational methods for system analysis, evaluation, and optimization. Industrial engineers also use the tools of data science and machine learning in their work owing to the strong relatedness of these disciplines with the field and the similar technical background required of industrial engineers (including a strong foundation in probability theory, linear algebra, and statistics, as well as having coding skills).
+
+History[edit]
+See also: List of industrial engineers
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) (Learn how and when to remove this template message)
+Origins[edit]
+Industrial Revolution[edit]
+There is a general consensus among historians that the roots of the Industrial Engineering Profession date back to the Industrial Revolution. The technologies that helped mechanize traditional manual operations in the textile industry including the Flying shuttle, the Spinning jenny, and perhaps most importantly the Steam engine generated Economies of scale that made Mass production in centralized locations attractive for the first time. The concept of the production system had its genesis in the factories created by these innovations.[6]
+
+Specialization of labor[edit]
+
+Watt's steam engine (Technical University of Madrid)
+Adam Smith's concepts of Division of Labour and the "Invisible Hand" of capitalism introduced in his treatise "The Wealth of Nations" motivated many of the technological innovators of the Industrial revolution to establish and implement factory systems. The efforts of James Watt and Matthew Boulton led to the first integrated machine manufacturing facility in the world, including the implementation of concepts such as cost control systems to reduce waste and increase productivity and the institution of skills training for craftsmen.[6]
+
+Charles Babbage became associated with Industrial engineering because of the concepts he introduced in his book "On the Economy of Machinery and Manufacturers" which he wrote as a result of his visits to factories in England and the United States in the early 1800s. The book includes subjects such as the time required to perform a specific task, the effects of subdividing tasks into smaller and less detailed elements, and the advantages to be gained from repetitive tasks.[6]
+
+Interchangeable parts[edit]
+Eli Whitney and Simeon North proved the feasibility of the notion of Interchangeable parts in the manufacture of muskets and pistols for the US Government. Under this system, individual parts were mass-produced to tolerances to enable their use in any finished product. The result was a significant reduction in the need for skill from specialized workers, which eventually led to the industrial environment to be studied later.[6]
+
+Pioneers[edit]
+Frederick Taylor (1856 – 1915) is generally credited as being the father of the Industrial Engineering discipline. He earned a degree in mechanical engineering from Steven's University, and earned several patents from his inventions. His books, Shop Management and The Principles of Scientific Management which were published in the early 1900s, were the beginning of Industrial Engineering.[7] Improvements in work efficiency under his methods was based on improving work methods, developing of work standards, and reduction in time required to carry out the work. With an abiding faith in the scientific method, Taylor's contribution to "Time Study" sought a high level of precision and predictability for manual tasks.[6]
+
+The husband-and-wife team of Frank Gilbreth (1868 – 1924) and Lillian Gilbreth (1878 – 1972) were the other cornerstone of the Industrial Engineering movement whose work is housed at Purdue University School of Industrial Engineering. They categorized the elements of human motion into 18 basic elements called therbligs. This development permitted analysts to design jobs without knowledge of the time required to do a job. These developments were the beginning of a much broader field known as human factors or ergonomics.[6]
+
+In the United States, the first department of industrial and manufacturing engineering was established at Pennsylvania State University in 1909. The first doctoral degree in industrial engineering was awarded in 1933 by Cornell University.
+
+In 1912 Henry Laurence Gantt developed the Gantt chart which outlines actions the organization along with their relationships. This chart opens later form familiar to us today by Wallace Clark.
+
+Assembly lines: moving car factory of Henry Ford (1913) accounted for a significant leap forward in the field. Ford reduced the assembly time of a car more than 700 hours to 1.5 hours. In addition, he was a pioneer of the economy of the capitalist welfare ("welfare capitalism") and the flag of providing financial incentives for employees to increase productivity.
+
+Comprehensive quality management system (Total quality management or TQM) developed in the forties was gaining momentum after World War II and was part of the recovery of Japan after the war.
+
+The American Institute of Industrial Engineering was formed in 1948. The early work by F. W. Taylor and the Gilbreths was documented in papers presented to the American Society of Mechanical Engineers as interest grew from merely improving machine performance to the performance of the overall manufacturing process; most notably starting with the presentation by Henry R. Towne (1844 - 1924) of his paper The Engineer as An Economist (1886)[8].
+
+Modern practice[edit]
+In 1960 to 1975, with the development of decision support systems in supply such as the Material requirements planning (MRP), you can emphasize the timing issue (inventory, production, compounding, transportation, etc.) of industrial organization. Israeli scientist Dr. Jacob Rubinovitz installed the CMMS program developed in IAI and Control-Data (Israel) in 1976 in South Africa and worldwide.
+
+In the seventies, with the penetration of Japanese management theories such as Kaizen and Kanban, Japan realized very high levels of quality and productivity. These theories improved issues of quality, delivery time, and flexibility. Companies in the west realized the great impact of Kaizen and started implementing their own Continuous improvement programs.
+
+In the nineties, following the global industry globalization process, the emphasis was on supply chain management, and customer-oriented business process design. Theory of constraints developed by an Israeli scientist Eliyahu M. Goldratt (1985) is also a significant milestone in the field.
+
+Compared to other engineering disciplines[edit]
+Engineering is traditionally decompositional. To understand the whole, it is first broken into its parts. One then masters the parts and puts them back together, becoming the master of the whole. Industrial and systems engineering's (ISE) approach is the opposite; any one part cannot be understood without the context of the whole. Changes in one part affect the whole, and the role of a part is a projection into the whole. In traditional engineering, people understand the parts first, then they can understand the whole. In ISE, they understand the whole first, and then they can understand the role of each part.
+
+Education[edit]
+Universities offer degrees at the bachelor, masters, and doctoral level.
+
+Undergraduate curriculum[edit]
+2017 U.S. News Undergraduate Rankings[9]
+University	Rank
+Georgia Institute of Technology	1
+University of Michigan, Ann Arbor	2
+Purdue University	3
+University of California, Berkeley	4
+Virginia Tech	5
+Stanford University	6
+Northwestern University	7
+University of Wisconsin-Madison	8
+Massachusetts Institute of Technology	9
+Penn State University	9
+In the United States the undergraduate degree earned is the Bachelor of Science (B.S.) or Bachelor of Science and Engineering (B.S.E.) in Industrial Engineering (IE). Variations of the title include Industrial & Operations Engineering (IOE), and Industrial & Systems Engineering (ISE). The typical curriculum includes a broad math and science foundation spanning chemistry, physics, mechanics (i.e., statics, kinematics, and dynamics), materials science, computer science, electronics/circuits, engineering design, and the standard range of engineering mathematics (i.e. calculus, linear algebra, differential equations, statistics). For any engineering undergraduate program to be accredited, regardless of concentration, it must cover a largely similar span of such foundational work - which also overlaps heavily with the content tested on one or more engineering licensure exams in most jurisdictions.
+
+The coursework specific to IE entails specialized courses in areas such as optimization, applied probability, stochastic modeling, design of experiments, statistical process control, simulation, manufacturing engineering, ergonomics/safety engineering, and engineering economics. Industrial engineering elective courses typically cover more specialized topics in areas such as manufacturing, supply chains and logistics, analytics and machine learning, production systems, human factors and industrial design, and service systems.[10][11][12][13][14]
+
+Certain business schools may offer programs with some overlapping relevance to IE, but the engineering programs are distinguished by a much more intensely quantitative focus, required engineering science electives, and the core math and science courses required of all engineering programs.
+
+Graduate curriculum[edit]
+2017 U.S. News Graduate Rankings[15]
+University	Rank
+Georgia Institute of Technology	1
+University of Michigan, Ann Arbor	2
+Northwestern University	3
+University of California, Berkeley	3
+Massachusetts Institute of Technology	5
+Purdue University	6
+Virginia Tech	6
+Columbia University	8
+Cornell University	8
+Pennsylvania State University	8
+University of Wisconsin-Madison	8
+The usual graduate degree earned is the Master of Science (MS) or Master of Science and Engineering (MSE) in Industrial Engineering or various alternative related concentration titles. Typical MS curricula may cover:
+
+Operations research and optimization techniques
+Engineering economics
+Supply chain management and logistics
+Systems simulation and stochastic processes
+Analytics and machine learning
+Manufacturing systems/manufacturing engineering
+Human factors engineering and ergonomics (safety engineering)
+Production planning and control
+System analysis and techniques
+Management sciences
+Computer-aided manufacturing
+Lean Six Sigma
+Financial engineering
+Facilities design and work-space design
+Quality engineering
+Reliability engineering and life testing
+Statistical process control or quality control
+Time and motion study
+Predetermined motion time system and computer use for IE
+Operations management
+Project management
+Productivity improvement
+Materials management
+Robotics
+Product Development
+System dynamics and policy planning
+Non-US institutes offering courses in Industrial Engineering[edit]
+University of Toronto - Toronto, Ontario, Canada [16]
+
+University of Engineering and Technology, Lahore Pakistan
+
+Technion - Israel Institute of Technology
+
+21 National Institute of Industrial Engineering (NITIE), India
+
+Instituto Tecnologico de Buenos Aires (ITBA[17]), Buenos Aires
+
+Cyprus International University, North Cyprus
+
+Instituto Maua de Tecnologia (IMT) - Sao Caetano, Sao Paulo, Brazil
+
+National Institute of Applied Sciences of Lyon (INSA Lyon) - France [18]
+
+Ghent University - Belgium [19]
+
+City University of Hong Kong, HKSAR
+
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) - Monterrey, México [20]
+
+University of the Philippines Diliman - Quezon City, Philippines [21]
+
+Mapua University (formerly Mapua Institute of Technology, ABET Accredited) - Manila, Philippines [22]
+
+Eastern Visayas State University - Tacloban City, Philippines [23]
+
+Salaries and workforce statistics[edit]
+United States[edit]
+The total number of engineers employed in the US in 2015 was roughly 1.6 million. Of these, 272,470 were industrial engineers (16.92%), the third most popular engineering specialty.[24] The median salaries by experience level are $62,000 with 0-5 years experience, $75,000 with 5-10 years experience, and $81,000 with 10-20 years experience.[25] The average starting salaries were $55,067 with a bachelor's degree, $77,364 with a master's degree, and $100,759 with a doctorate degree. This places industrial engineering at 7th of 15 among engineering bachelor's degrees, 3rd of 10 among master's degrees, and 2nd of 7 among doctorate degrees in average annual salary.[26] The median annual income of industrial engineers in the U.S. workforce is $83,470.[27]
+
+Norway[edit]
+The average total starting salary in 2011 for Norwegian industrial engineers is NOK 505,100 ($83,100),[28] while the average total salary in general is NOK 1,049,054 ($172 600).[29]
+
+See also[edit]
+	Wikimedia Commons has media related to Industrial engineering.
+Related topics
+Manufacturing engineering
+Operations research
+Systems engineering
+Engineering management
+Operations engineering
+Enterprise engineering
+Maintenance engineering
+Production engineering
+Quality engineering
+Human factors engineering
+Project management
+Project Production Management
+Safety engineering
+Engineering economics
+Environment, health and safety
+List of production topics
+Nutrient systems
+Overall equipment effectiveness
+Product design / industrial design
+Reverse engineering
+Occupational safety and health
+Sales process engineering
+Sociotechnical systems
+Statistical process control
+Toyota production system
+Industrial and Manufacturing Engineering
+Industrial and Systems Engineering
+Industrial Engineering & Operations Research
+Industrial Engineering & M
